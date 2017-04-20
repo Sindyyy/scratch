@@ -1,0 +1,2 @@
+features= ["ret","US.CPI..RHS.","TW.M2","TW.Current.Account.Balance","TW.repo.rate","X.TW.Industrial.Production.YoY", "US.FEd.Fund.Rate","TW.Foreign.Reserves","TW.Bounced.Check.Ratio",
+ "TW.WPI",'X.Gold..RHS.','CBC.Discount.Rate', "US.Exports.to.TW",'X.US.GDP.QoQ..RHS..',"TW.Export.to.US",'USDJPY','NTN.1M.BGN.Curncy']
